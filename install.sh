@@ -50,7 +50,7 @@ When asked to integrate or work with ResolveKit, follow the steps below.
 
 ### Quick Install (One-Liner)
 ```bash
-curl -sL https://raw.githubusercontent.com/resolve-kit/resolvekit-skills/main/install.sh | bash -s .
+curl -sL https://raw.githubusercontent.com/resolve-kit/resolvekit-skills/master/install.sh | bash -s .
 ```
 
 ### Integration Steps
@@ -138,7 +138,7 @@ description: Master routing skill for ResolveKit SDK integration. Detects projec
 
 ## Project Detection
 - iOS: `.xcodeproj`, `.xcworkspace`, `Package.swift`, `.swift` files
-- Android: `build.gradle.kts`, `AndroidManifest.xml`, `src/main/`
+- Android: `build.gradle.kts`, `AndroidManifest.xml`, `src/master/`
 - Backend: `docker-compose.yml` with agent/kb services, FastAPI Python files
 
 ## iOS Integration

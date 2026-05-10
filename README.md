@@ -6,7 +6,7 @@ AI agent skills for integrating ResolveKit into any project. Drop these into you
 
 ```bash
 # Option 1: Run the install script
-curl -sL https://raw.githubusercontent.com/resolve-kit/resolvekit-skills/main/install.sh | bash -s /path/to/your/project
+curl -sL https://raw.githubusercontent.com/resolve-kit/resolvekit-skills/master/install.sh | bash -s /path/to/your/project
 
 # Option 2: Clone and copy
 git clone https://github.com/resolve-kit/resolvekit-skills.git
